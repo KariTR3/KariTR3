@@ -4,7 +4,8 @@
 **KariTR3/KariTR3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![3092026a6d952d7bb250df7782cb2e00](https://user-images.githubusercontent.com/118492789/204073037-47a7c6e3-43c1-4416-ac5a-85fc66ba9d18.gif)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github.com/KariTR3/KariTR3/blob/main/3092026a6d952d7bb250df7782cb2e00.gif)
